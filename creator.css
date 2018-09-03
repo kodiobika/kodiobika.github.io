@@ -48,14 +48,14 @@ html,body {
 
 .upsell {
   position: fixed;
-  top: 80%;
+  top: 75%;
   left: 0px;
   right: 0px;
 }
 
 .carousel-indicators {
   position: fixed;
-  top: 84%;
+  top: 80%;
   left: 0px;
   right: 0px;
 }
